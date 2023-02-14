@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moosty</title>
-    <link>https://moosty.xyz/</link>
+    <link>https://carbneth.github.io/</link>
     <description>Recent content on Moosty</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://moosty.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://carbneth.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biyo</title>
-      <link>https://moosty.xyz/bio/kim/</link>
+      <link>https://carbneth.github.io/bio/kim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://moosty.xyz/bio/kim/</guid>
+      <guid>https://carbneth.github.io/bio/kim/</guid>
       <description>Merhaba; Ben Mustafa, 23 yaşında bir teknoloji hobistiyim.
 Sosyal hesaplarım için
  twitter instagram github linkedin steam  tıklayarak ulaşabilirsiniz.
@@ -19,10 +19,10 @@ Geri dön </description>
     
     <item>
       <title>Escape from Tarkov</title>
-      <link>https://moosty.xyz/icerik/tarkov/</link>
+      <link>https://carbneth.github.io/icerik/tarkov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://moosty.xyz/icerik/tarkov/</guid>
+      <guid>https://carbneth.github.io/icerik/tarkov/</guid>
       <description> Buradaki linkleri kendim kullanıyorum ve burada bulundurmak istedim.  Harita Haritalar için kullandığım mapgenie, tatlı.
 Mermi tipleri Mermi tipleri için buraya tıklayarak 3k resim içeriğinde bakabilirsin  Ayriyeten diğer araçlar için buraya ve buraya bakabilirsin.
 Geri dön </description>
@@ -30,29 +30,29 @@ Geri dön </description>
     
     <item>
       <title>12.12</title>
-      <link>https://moosty.xyz/icerik/mermi/</link>
+      <link>https://carbneth.github.io/icerik/mermi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://moosty.xyz/icerik/mermi/</guid>
+      <guid>https://carbneth.github.io/icerik/mermi/</guid>
       <description>Geri dön Mermi 12.12&#39;nin en güncel mermi sıralaması.  </description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>https://moosty.xyz/icerik/android/</link>
+      <link>https://carbneth.github.io/icerik/android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://moosty.xyz/icerik/android/</guid>
+      <guid>https://carbneth.github.io/icerik/android/</guid>
       <description>Giriş Android için işe yarar ufak tefek bir kaç uygulama var. Bunları siz de kullanın bence.
  Adguard YoutubeVanced  Adguard nedir?  Adguard telefondaki uygulamalarda bulunan (tarayıcılar dahil) reklamları kaldıran çok iyi bir uygulama.  Şöyle bir sıkıntısı var ki, bildirim çubuğunda sürekli bir işaret taşımak zorundasınız.  Youtube Vanced nedir?  Kısa adıyla Vanced, YouTube hizmetini sanki Premium kullanıyormuş gibi arkaplanda çalmasını sağlıyor. Her android telefon için olmazsa olmaz bir apk.</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://moosty.xyz/search/</link>
+      <link>https://carbneth.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://moosty.xyz/search/</guid>
+      <guid>https://carbneth.github.io/search/</guid>
       <description></description>
     </item>
     
